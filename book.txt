@@ -1,0 +1,12 @@
+Harry Potter,JK Rowling,29,$2
+Start With Why,Simon Sinek,10,$1.5
+Programming With Python,John Smith,19,$1.5
+Animal Farm,George Orwell,30,$2
+Alice in Wonderland,Lewis Carrol,32,$3
+Pride and Prejudice,Jane Austen,24,$2.5
+Shakuntala,Kalidas,36,$3
+Geetanjali,Rabindra Nath Tagore,26,$3.5
+Area of Darkness,V.S Naipul,20,$2.8
+Romeo and Juliet,William Shakespeare,40,$4
+Gone with the Wind,Margaret Mitchell,35,$2.5
+First Among Equal,Jeffrey Archer,37,$3

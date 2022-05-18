@@ -1,0 +1,7 @@
+                Library Management System 
+                   Returned By: Annie
+    Date:     Time:
+
+S.N.		 BookName 		 price 
+3		Programming With Python		$1.5
+					Total: $1.5
